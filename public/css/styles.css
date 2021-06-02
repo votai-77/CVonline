@@ -1,11 +1,13 @@
 *{
     box-sizing: border-box;
+   
 }
+
 .CV{
     text-align: center;
     font-weight: bold;
     font-size: 70px;
-    color: red;
+    color: rgb(83, 81, 81);
 }
 .col-md-5{
     background-color:#33FFFF;
@@ -30,12 +32,12 @@
     padding-right: 30px;
 }
 .left{
-    background-color: #33FF66;
+    background-color: #e8f1f1;
     border-right: 1px solid  grey;
     padding-left: 30px;
 }
 .right{
-    background-color:#33FFFF;
+    background-color:#e8f1f1;
 }
 .sofware{
     padding:50px;
@@ -44,7 +46,7 @@
 }
 .sofware:hover{
     text-decoration: none;
-    color:#fff;
+    color:#6b7474;
 }
 .phat{
     text-align: center;
@@ -54,7 +56,7 @@
     font-weight: bold;
 }
 .thongtinsinhvien{
-    color: red;
+    color: rgb(83, 81, 81);
     text-align: center;
     border-bottom:1px solid #fff;
     padding-top:20px;
@@ -69,7 +71,7 @@
 
 .muctieu{
     margin-top:50px;
-    color: red;
+    color: rgb(83, 81, 81);
     border-bottom:1px solid #fff;
     padding-top:20px;
     font-weight: bold;
